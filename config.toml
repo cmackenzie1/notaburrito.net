@@ -1,0 +1,4 @@
+baseURL = 'https://notaburrito.net'
+languageCode = 'en-us'
+title = '🙅 🌯 | Not A Burrito '
+theme = 'notaburrito'
